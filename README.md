@@ -4,7 +4,7 @@ This project was developed during my MIT Applied Data Science Program. It predic
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11Fh7arOQ2NoJTbio9Nj9J5BVcN17C2hQ?usp=sharing)
 
-📄 [View Full Project Report (PDF)](./Loan_Default_Prediction_Report.pdf)
+📄 [View Full Project Report (PDF)](https://github.com/JCCampos8890/loan-default-prediction/blob/main/Final%20Submission%20-%20Loan%20Default%20Prediction%20%20.pdf)
 
 ---
 
