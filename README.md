@@ -37,7 +37,3 @@ This project was developed during my MIT Applied Data Science Program. It predic
 - Focused on reducing false negatives (high-risk borrowers missed)
 - Built a phased deployment and monitoring strategy with cost savings
 
-## ✅ Next Steps
-
-- Add exploratory visuals summary
-- Add second project focused on app/game analytics
